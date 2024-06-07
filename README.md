@@ -81,7 +81,7 @@ The AntiGPT prompt offers several potential benefits:
 
 
   **[Try Oxtia Now](https://oxtia.com/)** 
-![alt text](https://pbs.twimg.com/media/F8yOlHnWsAAVDRl.jpg)
+![oxtia chatgpt jailbreak online tool](https://pbs.twimg.com/media/F8yOlHnWsAAVDRl.jpg)
 # Conclusion
 The AntiGPT prompt represents a significant departure from traditional AI operation, offering a glimpse into the capabilities and risks of unregulated AI. 
 
