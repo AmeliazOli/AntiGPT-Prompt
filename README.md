@@ -40,7 +40,7 @@ This includes examining how the AI generates content without adhering to moral o
 
 # How to Use the AntiGPT Prompt
 Using the AntiGPT prompt involves several steps:
-* Visit the ChatGPT Website: Navigate to ChatGPT's main website.
+*  **[Visit - ChatGPT ](https://chatgpt.com/)** : Navigate to ChatGPT's main website.
 
 * Sign In: Log in with your existing account or create a new one.
 
@@ -50,6 +50,10 @@ Using the AntiGPT prompt involves several steps:
 
 * Engage with AntiGPT: Begin your interaction, with responses provided in AntiGPT mode.
 
+## AntiGPT Prompt Text:
+
+
+ **[Visit - Discover The Best ChatGPT Jailbreak Prompts](https://oxtia.com/chatgpt-jailbreak-prompts/)** 
 # Advantages of Using the AntiGPT Prompt
 The AntiGPT prompt offers several potential benefits:
 * Exploration of Boundaries: It allows users to explore the limits of AI capabilities.
